@@ -37,11 +37,11 @@
 	<div id="page-container" class="fade">
 	    <!-- begin error -->
         <div class="error">
-            <div class="error-code m-b-10">404 <i class="fa fa-warning"></i></div>
+            <div class="error-code m-b-10">404 ERROR NOT FOUND<i class="fa fa-warning"></i></div>
             <div class="error-content">
                 <div class="error-message">HALAMAN TIDAK DI TEMUKAN</div>
                 <div class="error-desc m-b-20">
-                   Silahkan klik HOME untuk kembali ke halaman awal!<br />
+                   Silahkan klik HOME untuk kembali ke Beranda<br />
                 </div>
                 <div>
                     <a href="index.php" class="btn btn-success">HOME</a>
