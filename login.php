@@ -89,7 +89,7 @@
                         </div>
                         <hr />
                         <p class="text-center text-inverse">
-                            &copy; Coppy Right 2024
+                            &copy; Copy Right 2024
                         </p>
                     </form>
                 </div>
